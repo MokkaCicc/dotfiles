@@ -1,0 +1,7 @@
+# Ignore all files by default
+*
+
+# this repo related files
+!.gitignore
+!LICESENCE
+!README.md
