@@ -1,0 +1,13 @@
+{
+	"files.exclude": {
+		"Desktop": true,
+		"Documents": true,
+		"Downloads": true,
+		"Music": true,
+		"Pictures": true,
+		"Projects": true,
+		"Public": true,
+		"Templates": true,
+		"Videos": true
+	}
+}

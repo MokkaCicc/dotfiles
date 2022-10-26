@@ -1,7 +1,13 @@
 # Ignore all files by default
 *
 
+# folder to not ignore
+!.config/
+!.vscode/
+
+
 # this repo related files
 !.gitignore
-!LICESENCE
-!README.md
+!./LICENCE
+!./README.md
+!.vscode/settings.json
