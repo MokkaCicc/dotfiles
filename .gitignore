@@ -11,3 +11,7 @@
 !./LICENCE
 !./README.md
 !.vscode/settings.json
+
+# oh-my-posh theme
+!.config/oh-my-posh/
+!.config/oh-my-posh/starplus.omp.json
