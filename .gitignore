@@ -8,8 +8,9 @@
 
 # this repo related files
 !.gitignore
-!./LICENCE
-!./README.md
+!LICENCE
+!README.md
+!requirements.sh
 !.vscode/settings.json
 
 # oh-my-posh
