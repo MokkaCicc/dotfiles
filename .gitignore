@@ -12,6 +12,12 @@
 !./README.md
 !.vscode/settings.json
 
-# oh-my-posh theme
+# oh-my-posh
 !.config/oh-my-posh/
-!.config/oh-my-posh/starplus.omp.json
+!.config/oh-my-posh/**
+
+# sway
+!.config/sway/
+!.config/sway/**
+!.config/waybar/
+!.config/waybar/**
