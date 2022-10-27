@@ -9,5 +9,6 @@
 		"Public": true,
 		"Templates": true,
 		"Videos": true
-	}
+	},
+	"git.ignoreLimitWarning": true
 }
