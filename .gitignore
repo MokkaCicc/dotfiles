@@ -3,6 +3,7 @@
 
 # folder to not ignore
 !.config/
+!.scripts/
 !.vscode/
 
 
@@ -10,7 +11,8 @@
 !.gitignore
 !LICENCE
 !README.md
-!requirements.sh
+!.scripts/requirements.sh
+!.scripts/setup-fish.sh
 !.vscode/settings.json
 
 # oh-my-posh
