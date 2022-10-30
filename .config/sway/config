@@ -206,6 +206,11 @@ mode "resize" {
 }
 bindsym $mod+r mode "resize"
 
+# gaps
+gaps inner 10
+default_border pixel 3
+client.focused #285577 #285577 #ffffff #285577 #285577
+
 # waybar config at `.config/waybar/config`
 bar swaybar_command waybar
 
