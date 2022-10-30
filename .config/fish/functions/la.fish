@@ -1,0 +1,1 @@
+alias la='ls -lhA --no-group --group-directories-first'
