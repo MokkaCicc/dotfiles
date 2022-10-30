@@ -1,3 +1,3 @@
 #!/bin/bash
 
-dnf install sway waybar rofi fish
+dnf install sway waybar rofi fish wlr-randr
