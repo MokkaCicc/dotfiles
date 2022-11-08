@@ -1,1 +1,1 @@
-alias la='ls -lhA --no-group --group-directories-first'
+alias la='ls -lhA --no-group --group-directories-first --indicator-style=none'
