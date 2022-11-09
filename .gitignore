@@ -3,9 +3,9 @@
 
 # folder to not ignore
 !.config/
+!.local/
 !.scripts/
 !.vscode/
-
 
 # this repo related files
 !.gitignore
@@ -28,3 +28,8 @@
 !.config/sway/**
 !.config/waybar/
 !.config/waybar/**
+
+# fonts
+!.local/share/
+!.local/share/fonts/
+!.local/share/fonts/**
